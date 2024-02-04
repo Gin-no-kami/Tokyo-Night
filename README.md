@@ -892,6 +892,200 @@ our [showcase](#-showcase) section below!
 </table>
 </details>
 
+<details>
+<summary>🌿 Tokyo Night</summary>
+<table>
+	<tr>
+		<th></th>
+		<th>Labels</th>
+		<th>Hex</th>
+		<th>RGB</th>
+		<th>HSL</th>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/tokyonight_rosewater.png" height="23" width="23"/></td>
+		<td>Rosewater</td>
+		<td><code>#c0caf5</code></td>
+		<td><code>rgb(192, 202, 245)</code></td>
+		<td><code>hsl(229, 73%, 86%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/tokyonight_flamingo.png" height="23" width="23"/></td>
+		<td>Flamingo</td>
+		<td><code>#bb9af7</code></td>
+		<td><code>rgb(187, 154, 247)</code></td>
+		<td><code>hsl(261, 85%, 79%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/tokyonight_pink.png" height="23" width="23"/></td>
+		<td>Pink</td>
+		<td><code>#f9a5e7</code></td>
+		<td><code>rgb(249, 165, 231)</code></td>
+		<td><code>hsl(313, 88%, 81%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/tokyonight_mauve.png" height="23" width="23"/></td>
+		<td>Mauve</td>
+		<td><code>#9d7cd8</code></td>
+		<td><code>rgb(157, 124, 216)</code></td>
+		<td><code>hsl(262, 54%, 67%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/tokyonight_red.png" height="23" width="23"/></td>
+		<td>Red</td>
+		<td><code>#db4b4b</code></td>
+		<td><code>rgb(219, 75, 75)</code></td>
+		<td><code>hsl(0, 67%, 58%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/tokyonight_maroon.png" height="23" width="23"/></td>
+		<td>Maroon</td>
+		<td><code>#f7768e</code></td>
+		<td><code>rgb(247, 118, 142)</code></td>
+		<td><code>hsl(349, 89%, 72%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/tokyonight_peach.png" height="23" width="23"/></td>
+		<td>Peach</td>
+		<td><code>#ff9e64</code></td>
+		<td><code>rgb(255, 158, 100)</code></td>
+		<td><code>hsl(22, 100%, 70%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/tokyonight_yellow.png" height="23" width="23"/></td>
+		<td>Yellow</td>
+		<td><code>#e0af68</code></td>
+		<td><code>rgb(224, 175, 104)</code></td>
+		<td><code>hsl(36, 66%, 64%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/tokyonight_green.png" height="23" width="23"/></td>
+		<td>Green</td>
+		<td><code>#9ece6a</code></td>
+		<td><code>rgb(158, 206, 106)</code></td>
+		<td><code>hsl(89, 51%, 61%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/tokyonight_teal.png" height="23" width="23"/></td>
+		<td>Teal</td>
+		<td><code>#1abc9c</code></td>
+		<td><code>rgb(26, 188, 156)</code></td>
+		<td><code>hsl(168, 76%, 42%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/tokyonight_sky.png" height="23" width="23"/></td>
+		<td>Sky</td>
+		<td><code>#7dcfff</code></td>
+		<td><code>rgb(125, 207, 255)</code></td>
+		<td><code>hsl(202, 100%, 75%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/tokyonight_sapphire.png" height="23" width="23"/></td>
+		<td>Sapphire</td>
+		<td><code>#0db9d7</code></td>
+		<td><code>rgb(13, 185, 215)</code></td>
+		<td><code>hsl(189, 89%, 45%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/tokyonight_blue.png" height="23" width="23"/></td>
+		<td>Blue</td>
+		<td><code>#7aa2f7</code></td>
+		<td><code>rgb(122, 162, 247)</code></td>
+		<td><code>hsl(221, 89%, 72%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/tokyonight_lavender.png" height="23" width="23"/></td>
+		<td>Lavender</td>
+		<td><code>#9cb5f5</code></td>
+		<td><code>rgb(156, 181, 245)</code></td>
+		<td><code>hsl(223, 82%, 79%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/tokyonight_text.png" height="23" width="23"/></td>
+		<td>Text</td>
+		<td><code>#c0caf5</code></td>
+		<td><code>rgb(192, 202, 245)</code></td>
+		<td><code>hsl(229, 73%, 86%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/tokyonight_subtext1.png" height="23" width="23"/></td>
+		<td>Subtext1</td>
+		<td><code>#b8c2eb</code></td>
+		<td><code>rgb(184, 194, 235)</code></td>
+		<td><code>hsl(228, 56%, 82%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/tokyonight_subtext0.png" height="23" width="23"/></td>
+		<td>Subtext0</td>
+		<td><code>#b0bae1</code></td>
+		<td><code>rgb(176, 186, 225)</code></td>
+		<td><code>hsl(228, 45%, 79%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/tokyonight_overlay2.png" height="23" width="23"/></td>
+		<td>Overlay2</td>
+		<td><code>#a9b1d6</code></td>
+		<td><code>rgb(169, 177, 214)</code></td>
+		<td><code>hsl(229, 35%, 75%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/tokyonight_overlay1.png" height="23" width="23"/></td>
+		<td>Overlay1</td>
+		<td><code>#737aa2</code></td>
+		<td><code>rgb(115, 122, 162)</code></td>
+		<td><code>hsl(231, 20%, 54%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/tokyonight_overlay0.png" height="23" width="23"/></td>
+		<td>Overlay0</td>
+		<td><code>#565f89</code></td>
+		<td><code>rgb(86, 95, 137)</code></td>
+		<td><code>hsl(229, 23%, 44%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/tokyonight_surface2.png" height="23" width="23"/></td>
+		<td>Surface2</td>
+		<td><code>#545c7e</code></td>
+		<td><code>rgb(84, 92, 126)</code></td>
+		<td><code>hsl(229, 20%, 41%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/tokyonight_surface1.png" height="23" width="23"/></td>
+		<td>Surface1</td>
+		<td><code>#3b4261</code></td>
+		<td><code>rgb(59, 66, 97)</code></td>
+		<td><code>hsl(229, 24%, 31%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/tokyonight_surface0.png" height="23" width="23"/></td>
+		<td>surface0</td>
+		<td><code>#2c3044</code></td>
+		<td><code>rgb(44, 48, 68)</code></td>
+		<td><code>hsl(230, 21%, 22%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/tokyonight_base.png" height="23" width="23"/></td>
+		<td>base</td>
+		<td><code>#1a1b26</code></td>
+		<td><code>rgb(26, 27, 38)</code></td>
+		<td><code>hsl(235, 19%, 13%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/tokyonight_mantle.png" height="23" width="23"/></td>
+		<td>mantle</td>
+		<td><code>#16161d</code></td>
+		<td><code>rgb(22, 22, 29)</code></td>
+		<td><code>hsl(240, 14%, 10%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/tokyonight_crust.png" height="23" width="23"/></td>
+		<td>crust</td>
+		<td><code>#16161d</code></td>
+		<td><code>rgb(22, 22, 29)</code></td>
+		<td><code>hsl(240, 14%, 10%)</code></td>
+	</tr>
+</table>
+</details>
 &nbsp;
 
 ### 👐 Contributing
