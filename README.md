@@ -905,23 +905,23 @@ our [showcase](#-showcase) section below!
 	<tr>
 		<td><img src="assets/palette/circles/tokyonight_rosewater.png" height="23" width="23"/></td>
 		<td>Rosewater</td>
-		<td><code>#c0caf5</code></td>
-		<td><code>rgb(192, 202, 245)</code></td>
-		<td><code>hsl(229, 73%, 86%)</code></td>
+		<td><code>#394b70</code></td>
+		<td><code>rgb(57, 75, 112)</code></td>
+		<td><code>hsl(220, 33%, 33%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/tokyonight_flamingo.png" height="23" width="23"/></td>
 		<td>Flamingo</td>
-		<td><code>#bb9af7</code></td>
-		<td><code>rgb(187, 154, 247)</code></td>
-		<td><code>hsl(261, 85%, 79%)</code></td>
+		<td><code>#6183bb</code></td>
+		<td><code>rgb(97, 131, 187)</code></td>
+		<td><code>hsl(217, 40%, 56%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/tokyonight_pink.png" height="23" width="23"/></td>
 		<td>Pink</td>
-		<td><code>#f9a5e7</code></td>
-		<td><code>rgb(249, 165, 231)</code></td>
-		<td><code>hsl(313, 88%, 81%)</code></td>
+		<td><code>#c53b53</code></td>
+		<td><code>rgb(197, 59, 83)</code></td>
+		<td><code>hsl(350, 54%, 50%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/tokyonight_mauve.png" height="23" width="23"/></td>
@@ -1066,23 +1066,23 @@ our [showcase](#-showcase) section below!
 	<tr>
 		<td><img src="assets/palette/circles/tokyonight_base.png" height="23" width="23"/></td>
 		<td>base</td>
-		<td><code>#1a1b26</code></td>
-		<td><code>rgb(26, 27, 38)</code></td>
-		<td><code>hsl(235, 19%, 13%)</code></td>
+		<td><code>#24283b</code></td>
+		<td><code>rgb(36, 40, 59)</code></td>
+		<td><code>hsl(230, 24%, 19%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/tokyonight_mantle.png" height="23" width="23"/></td>
 		<td>mantle</td>
-		<td><code>#16161d</code></td>
-		<td><code>rgb(22, 22, 29)</code></td>
-		<td><code>hsl(240, 14%, 10%)</code></td>
+		<td><code>#1f2335</code></td>
+		<td><code>rgb(31, 35, 53)</code></td>
+		<td><code>hsl(229, 26%, 16%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/tokyonight_crust.png" height="23" width="23"/></td>
 		<td>crust</td>
-		<td><code>#16161d</code></td>
-		<td><code>rgb(22, 22, 29)</code></td>
-		<td><code>hsl(240, 14%, 10%)</code></td>
+		<td><code>#1a1b26</code></td>
+		<td><code>rgb(26, 27, 38)</code></td>
+		<td><code>hsl(235, 19%, 13%)</code></td>
 	</tr>
 </table>
 </details>
