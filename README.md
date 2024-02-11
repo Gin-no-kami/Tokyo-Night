@@ -1146,6 +1146,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [egui](https://github.com/catppuccin/egui)
 - [Godot](https://github.com/catppuccin/godot)
 - [Graphite](https://github.com/catppuccin/userstyles/tree/main/styles/graphite)
+- [Hackage](https://github.com/catppuccin/userstyles/tree/main/styles/hackage)
 - [Highlight.js](https://github.com/catppuccin/highlightjs)
 - [Hoppscotch](https://github.com/catppuccin/userstyles/tree/main/styles/hoppscotch)
 - [ImHex](https://github.com/catppuccin/imhex)
@@ -1153,6 +1154,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [JupyterLab](https://github.com/catppuccin/jupyterlab)
 - [Matplotlib](https://github.com/catppuccin/matplotlib)
 - [mdBook](https://github.com/catppuccin/mdBook)
+- [Next.js](https://github.com/catppuccin/userstyles/tree/main/styles/nextjs)
 - [paste.rs](https://github.com/catppuccin/userstyles/tree/main/styles/paste.rs)
 - [ShikiJS](https://github.com/catppuccin/vscode/tree/compiled)
 - [Tailwind CSS](https://github.com/catppuccin/tailwindcss)
@@ -1315,6 +1317,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [SearXNG](https://github.com/catppuccin/userstyles/tree/main/styles/searxng)
 - [Startpage](https://github.com/catppuccin/userstyles/tree/main/styles/startpage)
 - [Whoogle](https://github.com/catppuccin/whoogle)
+- [Wikipedia](https://github.com/catppuccin/userstyles/tree/main/styles/wikipedia)
 
 </details>
 <details open>
@@ -1330,7 +1333,9 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Mattermost](https://github.com/catppuccin/mattermost)
 - [mIRC](https://github.com/catppuccin/mirc)
 - [Revolt](https://github.com/catppuccin/revolt)
+- [SimpleX](https://github.com/catppuccin/simplex)
 - [Slack](https://github.com/catppuccin/slack)
+- [Snapchat Web](https://github.com/catppuccin/userstyles/tree/main/styles/snapchat-web)
 - [Telegram](https://github.com/catppuccin/telegram)
 - [The Lounge](https://github.com/catppuccin/thelounge)
 - [Vendetta](https://github.com/catppuccin/vendetta)
@@ -1418,6 +1423,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Pinterest](https://github.com/catppuccin/userstyles/tree/main/styles/pinterest)
 - [Reddit](https://github.com/catppuccin/userstyles/tree/main/styles/reddit)
 - [Substack](https://github.com/catppuccin/userstyles/tree/main/styles/substack)
+- [Twitter](https://github.com/catppuccin/userstyles/tree/main/styles/twitter)
 
 </details>
 <details open>
